@@ -1,0 +1,21 @@
+ToDos:
+
+1. Project Bioler Plate
+    - Creating the folders
+    - Adding Files
+    - Connectibg Files
+
+2. Navbar
+    - Two Links { Home | About }
+    - Name of the Person
+
+3. Home Page - Portfolio Item Grid
+    - images
+    - titles
+    - descriptions
+    - animations
+    - javascript
+
+4. About Page
+    - Display Picture
+    - About yourself on the side          
